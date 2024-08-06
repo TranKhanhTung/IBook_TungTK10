@@ -1,0 +1,8 @@
+D:\BaoCao\zFile2\Website bán sách online\DoAnWeb - Final\IBook\obj\Debug\netcoreapp3.1\IBook.csproj.AssemblyReference.cache
+D:\BaoCao\zFile2\Website bán sách online\DoAnWeb - Final\IBook\obj\Debug\netcoreapp3.1\IBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaoCao\zFile2\Website bán sách online\DoAnWeb - Final\IBook\obj\Debug\netcoreapp3.1\IBook.AssemblyInfoInputs.cache
+D:\BaoCao\zFile2\Website bán sách online\DoAnWeb - Final\IBook\obj\Debug\netcoreapp3.1\IBook.AssemblyInfo.cs
+D:\BaoCao\zFile2\Website bán sách online\DoAnWeb - Final\IBook\obj\Debug\netcoreapp3.1\IBook.csproj.CoreCompileInputs.cache
+D:\BaoCao\zFile2\Website bán sách online\DoAnWeb - Final\IBook\obj\Debug\netcoreapp3.1\IBook.MvcApplicationPartsAssemblyInfo.cs
+D:\BaoCao\zFile2\Website bán sách online\DoAnWeb - Final\IBook\obj\Debug\netcoreapp3.1\IBook.MvcApplicationPartsAssemblyInfo.cache
+D:\BaoCao\zFile2\Website bán sách online\DoAnWeb - Final\IBook\obj\Debug\netcoreapp3.1\IBook.sourcelink.json

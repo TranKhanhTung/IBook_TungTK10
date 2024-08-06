@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|d:\\baocao\\zfile2\\website b\u00E1n s\u00E1ch online1\\doanweb - final\\ibook\\ibook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|solutionrelative:ibook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|d:\\baocao\\zfile2\\website b\u00E1n s\u00E1ch online1\\doanweb - final\\ibook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|d:\\baocao\\zfile2\\website b\u00E1n s\u00E1ch online1\\doanweb - final\\ibook\\areas\\customer\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|solutionrelative:areas\\customer\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|d:\\baocao\\zfile2\\website b\u00E1n s\u00E1ch online1\\doanweb - final\\ibook\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|solutionrelative:utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|d:\\baocao\\zfile2\\website b\u00E1n s\u00E1ch online1\\doanweb - final\\ibook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|d:\\baocao\\zfile2\\website b\u00E1n s\u00E1ch online1\\doanweb - final\\ibook\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|d:\\baocao\\zfile2\\website b\u00E1n s\u00E1ch online1\\doanweb - final\\ibook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32AA99B5-483F-41BE-ADA0-0D94AEF5DC62}|IBook.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_CookieConsentPartial.cshtml",
+              "DocumentMoniker": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\Areas\\Customer\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "ToolTip": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\Areas\\Customer\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T12:18:28.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T12:12:15.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Utility\\SD.cs",
+              "ToolTip": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\Utility\\SD.cs",
+              "RelativeToolTip": "Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:59:02.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:58:26.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBook.csproj",
+              "DocumentMoniker": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\IBook.csproj",
+              "RelativeDocumentMoniker": "IBook.csproj",
+              "ToolTip": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\IBook.csproj",
+              "RelativeToolTip": "IBook.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T11:58:22.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.bundle.js.map",
+              "DocumentMoniker": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ToolTip": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-06T12:05:56.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\BaoCao\\zFile2\\Website b\u00E1n s\u00E1ch online1\\DoAnWeb - Final\\IBook\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T11:58:41.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
